@@ -1,0 +1,7 @@
+Stuff to cover:
+
+- Preliminary Stuff
+- Minor things I didn't cover during previous tutorial
+    - How to print your objects with __repr__ (e.g., Dataset, model summary)
+    - How to sample data from a multivariate gaussian
+- 
