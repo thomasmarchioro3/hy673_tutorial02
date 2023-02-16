@@ -1,4 +1,8 @@
 *__pycache__*
-test_*.py
+*.ipynb_checkpoints/*
 
+saved_models/*
 data/*
+
+test_*.py
+notes.txt
